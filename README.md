@@ -1,4 +1,4 @@
-# Projeto Bermudas (R) — Análise de Vendas
+# Projeto Bermudas (R) - Análise de Vendas
 
 Pequeno projeto em **R** que lê uma planilha de vendas e gera o **faturamento por loja** e **por produto**, salvando os gráficos em PNG. 
 - Ótimo para treinar **readxl + dplyr + ggplot2** no **RStudio**.
@@ -15,6 +15,7 @@ Pequeno projeto em **R** que lê uma planilha de vendas e gera o **faturamento p
 ## Tecnologias
 - **R** + **RStudio**
 
+## Repositório Git:
 
 git clone https://github.com/Cintia-Olibar/projeto-bermudas-r.git
 
